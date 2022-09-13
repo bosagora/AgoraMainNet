@@ -41,6 +41,7 @@
 - [ ] Commons Budget
 - [ ] Reward
 - [ ] Slashing
+- [ ] Proposal Reward
 - [ ] Estimated Hard Fork Date - (Execution 2023-03-28)  
 
 ## Shanghai Upgrade
