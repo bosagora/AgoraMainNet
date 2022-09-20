@@ -14,7 +14,7 @@
 ## Testnet
 - [x] Reset - (Execution 2020-09-15)  
 - [x] BOASwap Reset - (Until 20-09-16)  
-- [ ] Deploy Deposit Contract (Execution 2022-09-19)  
+- [X] Deploy Deposit Contract (Execution 2022-09-19)  
 - [ ] Launch the Consensus Chain - (2022-09-19 ~ 2022-09-23)  
 - [ ] Deploy Commons Budget Contract (Execution 2022-10-10)  
 - [ ] Hard Fork BOSAGORA - (Execution 2022-10-07)  
