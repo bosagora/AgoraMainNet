@@ -14,17 +14,17 @@
 ## Testnet
 - [x] Reset - (Execution 2020-09-15)  
 - [x] BOASwap Reset - (Until 20-09-16)  
-- [X] Deploy Deposit Contract (Execution 2022-09-19)  
-- [ ] Launch the Consensus Chain - (2022-09-19 ~ 2022-09-23)  
+- [x] Deploy Deposit Contract (Execution 2022-09-19)  
+- [x] Launch the Consensus Chain - (2022-09-19 ~ 2022-09-23)  
 - [ ] Deploy Commons Budget Contract (Execution 2022-10-10)  
 - [ ] Hard Fork BOSAGORA - (Execution 2022-10-07)  
 - [ ] Set Hard Fork Merge - (Execution 2022-10-07)  
-- [ ] Launch POS-Explorer(RDB) (Until 2022-10-10)  
+- [x] Launch POS-Explorer(RDB) (Until 2022-10-10)  
 - [ ] Launch Staking LaunchPad (RDB) (Until 2022-10-10)  
 - [ ] Integrated test (2022-10-10 ~ 2022-10-14)  
 
 ## Mainnet
-- [ ] Commons Budget - (Until 2022-09-30)
+- [x] Commons Budget - (Until 2022-09-30)
 - [ ] Reward - (Until 2022-09-30)
 - [ ] Penalty - (Until 2022-09-30)
 - [ ] Slashing - (Until 2022-09-30)
