@@ -5,7 +5,8 @@
 - [x] Establishing a Network  
 - [x] Deploy Commons Budget Contract - (Execution 2022-09-26)  
 - [ ] Test Commons Budget Contract - (Until 2022-10-07)  
-- [x] Hard Fork BOSAGORA - (Execution 2022-10-07)  
+- [x] Hard Fork BOSAGORA - (Execution 2022-09-30)
+- [x] Set Hard Fork Merge - (Execution 2022-10-04)
 - [x] Find the settings required for The Merge (Until 2022-09-16)  
 - [ ] Study on the withdrawal of Staking Amount (Shanghai Upgrade) - (Until 2022-09-23)  
 - [ ] Develop POS-Explorer - (Until 2022-10-07)  
