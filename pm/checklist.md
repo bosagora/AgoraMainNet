@@ -3,9 +3,9 @@
 ## Devnet
 
 - [x] Establishing a Network  
-- [ ] Deploy Commons Budget Contract - (Execution 2022-09-26)  
+- [x] Deploy Commons Budget Contract - (Execution 2022-09-26)  
 - [ ] Test Commons Budget Contract - (Until 2022-10-07)  
-- [ ] Hard Fork BOSAGORA - (Execution 2022-10-07)  
+- [x] Hard Fork BOSAGORA - (Execution 2022-10-07)  
 - [x] Find the settings required for The Merge (Until 2022-09-16)  
 - [ ] Study on the withdrawal of Staking Amount (Shanghai Upgrade) - (Until 2022-09-23)  
 - [ ] Develop POS-Explorer - (Until 2022-10-07)  
@@ -25,27 +25,28 @@
 
 ## Mainnet
 - [x] Commons Budget - (Until 2022-09-30)
-- [ ] Reward - (Until 2022-09-30)
-- [ ] Penalty - (Until 2022-09-30)
-- [ ] Slashing - (Until 2022-09-30)
+- [x] Reward - (Until 2022-09-30)
+- [x] Penalty - (Until 2022-09-30)
+- [x] Slashing - (Until 2022-09-30)
 - [ ] Deploy Commons Budget Contract - (Execution 2022-10-17)  
 - [ ] Deploy Deposit Contract - (Execution 2022-10-18)  
 - [ ] Hard Fork BOSAGORA - (Execution 2022-10-18)  
 - [ ] Set Hard Fork Merge - (Execution 2022-10-18)  
 - [ ] Launch Consensus Chain - (2022-10-18 ~ 2022-10-25)  
 - [ ] Launch POS-Explorer - (Until 2022-10-10)  
-- [ ] Launch Staking LaunchPad - (Until 2022-10-10)  
-- [ ] BOASwap (Bridge) Test and Update - (Until 2022-10-21)  
+- [ ] Launch Staking LaunchPad - (Until 2022-10-10)
+- [ ] BOASwap (Bridge) Test and Update - (Until 2022-10-21)
+- [ ] Start Consensus Chain - (2022-11-21 AM 10:00 GMT+09:00)
 
-## Merge Upgrade
+## Merge Update
 - [ ] Commons Budget
 - [ ] Reward
 - [ ] Slashing
 - [ ] Proposal Reward
-- [ ] Estimated Hard Fork Date - (Execution 2023-03-28)  
+- [ ] Estimated Update Date -(2022-12-19 AM 10:00 GMT+09:00)
 
-## Shanghai Upgrade
-- [ ] Estimated Hard Fork Date - (Execution 2023-05-28)  
+## Shanghai Update
+- [ ] Estimated Update Date - (Execution 2023-05-28)  
 
 ## Votera
 - [ ] Prepare services on the testnet - (EC2, RDS) (Until 2022-10-21)  
