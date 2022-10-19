@@ -9,19 +9,19 @@
 - [x] Set Hard Fork Merge - (Execution 2022-10-04)
 - [x] Find the settings required for The Merge (Until 2022-09-16)  
 - [ ] Study on the withdrawal of Staking Amount (Shanghai Upgrade) - (Until 2022-09-23)  
-- [ ] Develop POS-Explorer - (Until 2022-10-07)  
-- [ ] Develop Staking LaunchPad - (Until 2022-10-07)  
+- [ ] Develop Agora Scan - (Until 2022-10-07)  
+- [x] Develop Staking LaunchPad - (Until 2022-10-07)  
 
 ## Testnet
 - [x] Reset - (Execution 2020-09-15)  
 - [x] BOASwap Reset - (Until 20-09-16)  
 - [x] Deploy Deposit Contract (Execution 2022-09-19)  
 - [x] Launch the Consensus Chain - (2022-09-19 ~ 2022-09-23)  
-- [ ] Deploy Commons Budget Contract (Execution 2022-10-10)  
-- [ ] Hard Fork BOSAGORA - (Execution 2022-10-07)  
+- [x] Deploy Commons Budget Contract (Execution 2022-10-10)  
+- [x] Hard Fork BOSAGORA - (Execution 2022-10-07)  
 - [ ] Set Hard Fork Merge - (Execution 2022-10-07)  
-- [x] Launch POS-Explorer(RDB) (Until 2022-10-10)  
-- [ ] Launch Staking LaunchPad (RDB) (Until 2022-10-10)  
+- [x] Launch Agora Scan(RDB) (Until 2022-10-10)  
+- [x] Launch Staking LaunchPad (RDB) (Until 2022-10-10)  
 - [ ] Integrated test (2022-10-10 ~ 2022-10-14)  
 
 ## Mainnet
@@ -33,18 +33,18 @@
 - [ ] Deploy Deposit Contract - (Execution 2022-10-18)  
 - [ ] Hard Fork BOSAGORA - (Execution 2022-10-18)  
 - [ ] Set Hard Fork Merge - (Execution 2022-10-18)  
-- [ ] Launch Consensus Chain - (2022-10-18 ~ 2022-10-25)  
-- [ ] Launch POS-Explorer - (Until 2022-10-10)  
-- [ ] Launch Staking LaunchPad - (Until 2022-10-10)
+- [x] Launch Consensus Chain - (2022-10-18 ~ 2022-10-25)  
+- [x] Launch Agora Scan - (Until 2022-10-10)  
+- [x] Launch Staking LaunchPad - (Until 2022-10-10)
 - [ ] BOASwap (Bridge) Test and Update - (Until 2022-10-21)
-- [ ] Start Consensus Chain - (2022-11-21 AM 10:00 GMT+09:00)
+- [ ] Start Consensus Chain - (2022-12-12 AM 10:00 GMT+09:00)
 
 ## Merge Update
-- [ ] Commons Budget
-- [ ] Reward
-- [ ] Slashing
-- [ ] Proposal Reward
-- [ ] Estimated Update Date -(2022-12-19 AM 10:00 GMT+09:00)
+- [x] Commons Budget
+- [x] Reward
+- [x] Slashing
+- [x] Proposal Reward
+- [ ] Estimated Update Date -(2023-01-10 AM 10:00 GMT+09:00)
 
 ## Shanghai Update
 - [ ] Estimated Update Date - (Execution 2023-05-28)  
@@ -64,16 +64,16 @@
 - [ ] Launch - ?  
 
 ## Binary
-- [ ] Geth Release Version - (Until 2022-10-14)  
-- [ ] Prysm Docker Image - (Until 2022-10-14)  
-- [ ] Agora-Key-Gen Release Version - (Until 2022-10-14)  
-- [ ] staking-deposit-cli Release Version & Docker Image - (Until 2022-10-14)  
+- [x] Geth Docker Image - (Until 2022-10-14)  
+- [x] Prysm Docker Image - (Until 2022-10-14)  
+- [x] Agora-Key-Gen Release Version - (Until 2022-10-14)  
+- [x] staking-deposit-cli Release Version & Docker Image - (Until 2022-10-14)  
 
 ## Documentation
 - [x] Create Account of GitBook - (app.gitbook.com)  
 - [ ] Extract ranges and lists that require documentation - (Until 2022-09-30)  
 - [ ] Create documents - (Until 2022-10-14)  
-- [ ] White Paper - (Until 2022-10-14)  
+- [x] White Paper - (Until 2022-10-14)  
 
 
 ## TERMS_OF_SERVICE
