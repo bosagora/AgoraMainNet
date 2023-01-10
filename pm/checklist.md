@@ -27,22 +27,22 @@
 - [x] Reward - (Until 2022-09-30)
 - [x] Penalty - (Until 2022-09-30)
 - [x] Slashing - (Until 2022-09-30)
-- [ ] Deploy Commons Budget Contract - (Execution 2022-10-17)  
+- [x] Deploy Commons Budget Contract - (Execution 2022-10-17)  
 - [x] Deploy Deposit Contract - (Execution 2022-10-18)  
-- [ ] Hard Fork BOSAGORA - (Execution 2022-11-07)  
-- [ ] Set Hard Fork Merge - (Execution 2022-11-07)  
+- [x] Hard Fork BOSAGORA - (Execution 2022-11-07)  
+- [x] Set Hard Fork Merge - (Execution 2022-11-07)  
 - [x] Launch Consensus Chain - (2022-10-18 ~ 2022-10-25)  
 - [x] Launch Agora Scan - (Until 2022-10-10)  
 - [x] Launch Staking LaunchPad - (Until 2022-10-10)
 - [x] BOASwap (Bridge) Test and Update - (Until 2022-10-21)
-- [ ] Start Consensus Chain - (2022-12-12 AM 10:00 GMT+09:00)
+- [ ] Start Consensus Chain - (2022-01-11 PM 06:12 GMT+09:00)
 
 ## Merge Update
 - [x] Commons Budget
 - [x] Reward
 - [x] Slashing
 - [x] Proposal Reward
-- [ ] Estimated Update Date -(2023-01-10 AM 10:00 GMT+09:00)
+- [ ] Estimated Update Date -(2023-02-09 AM 10:00 GMT+09:00)
 
 ## Shanghai Update
 - [ ] Study on the withdrawal of Staking Amount (Shanghai Upgrade)
@@ -50,17 +50,10 @@
 
 ## Votera
 - [X] Prepare services on the testnet - (EC2, RDS) (Until 2022-10-21)  
-- [ ] Development, Votera App, Server, ValidatorInfo - (Until 2022-10-30)  
-- [ ] Test in Testnet or Devnet - (2022-10-30 ~ 2022-11-18)  
+- [X] Development, Votera App, Server, ValidatorInfo - (Until 2022-10-30)  
+- [X] Test in Testnet or Devnet - (2022-10-30 ~ 2022-11-18)  
 - [X] Prepare services on the mainnet - (EC2, RDS) (Until 2022-11-14)  
 - [ ] Launch in Mainnet - (Until 2022-11-21)  
-
-## Pooled staking
-- [ ] White Paper - ?  
-- [ ] Analysis, Design - ?  
-- [ ] Developmet - ?  
-- [ ] Test - ?  
-- [ ] Launch - ?  
 
 ## Binary
 - [x] Geth Docker Image - (Until 2022-10-14)  
